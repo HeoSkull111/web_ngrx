@@ -3,7 +3,7 @@ export interface Article {
     title: string;
     description: string;
     cover_image: string;
-    user.name: string;
+    name: string;
     profile_image: string;
 }
 export interface ArticlesState {
